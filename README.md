@@ -1,2 +1,2 @@
-# measuring_emo_misinfo
-Presentation on "Measuring emotions in misinformation studies"
+# emomis_stockholm
+Presentation at Conference "Intelligent Machines, Emotions and our Planet"

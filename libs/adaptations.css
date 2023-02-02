@@ -1,0 +1,67 @@
+div.my-footer {
+    position: absolute;
+    color: gray;
+    bottom: 0px;
+    left: 0px;
+    height: 20px;
+    width: 100%;
+}
+div.my-footer span {
+    font-size: 13pt;
+    position: absolute;
+    color: gray;
+    left: 15px;
+    bottom: 2px;
+} 
+
+
+/* use to move up content within pull-left and .pull-right */
+.center-left {
+  position:          relative;
+  top:               50%;
+  transform:         translateY(-5%);
+}
+.center-right {
+  position:          relative;
+  top:               50%;
+  transform:         translateY(-5%);
+}
+
+/* one broader and one narrower column for text and image */
+.broad-left {
+  float: left;
+  width: 60%;
+}
+.narrow-right {
+  float: right;
+  width: 35%;
+}
+.narrow-right + * {
+  clear: both;
+}
+
+
+/* Define class for opaque (entire) slides */
+.reduced_opacity {
+  opacity: 0.5;
+}
+
+/* only opaque background image, not the rest see https://stackoverflow.com/questions/64269808/is-it-possible-to-adjust-background-image-opacity-in-a-xaringan-slideshow | not working yet */
+
+.opaque_bg {
+  position: relative;
+  z-index: 1;
+}
+
+.opaque_bg::before {    
+      content: "";
+      background-image: url('https://cdn.pixabay.com/photo/2020/05/22/12/12/corona-5205169_960_720.jpg')
+      background-size: cover
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.5;
+      z-index: -1;
+}
