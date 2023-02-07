@@ -91,6 +91,7 @@ layout: true
 <a href="https://doi.org/10.1186/s41235-020-00252-3"> Martel et al. (2020); </a>
 <a href="https://doi.org/10.1177/0956797611413294"> Berger et al. (2011); </a>
 <a href="https://doi.org/10.1027/1618-3169/a000489"> Greenstein & Franklin (2011); </a>
+<a href="https://oxford.universitypressscholarship.com/view/10.1093/oso/9780190900250.001.0001/oso-9780190900250-chapter-16"> Weeks & Garrett (2019); </a> 
 <a href="https://www.pexels.com/photo/annoyed-black-woman-having-video-chat-on-smartphone-at-home-5699823/"> Photo by Alex Green </a>
 </span></div>
 
@@ -389,6 +390,3 @@ knitr::include_graphics("figures/Screenshot_emotional_responses.png")
 ```
 
 * Free text: "Which impulse or thought does this news article elicit?"
-
-
----
