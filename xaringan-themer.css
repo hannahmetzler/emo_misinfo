@@ -19,7 +19,7 @@
  *
  * ------------------------------------------------------- */
 @import url(https://fonts.googleapis.com/css?family=Arial:300,300i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Fira+Mono&display=swap);
 
 
@@ -29,7 +29,7 @@
   --text-font-is-google: 1;
   --text-font-family-fallback: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial;
   --text-font-base: sans-serif;
-  --header-font-family: Raleway;
+  --header-font-family: 'Josefin Sans';
   --header-font-is-google: 1;
   --header-font-family-fallback: Georgia, serif;
   --code-font-family: 'Fira Mono';
@@ -44,20 +44,20 @@
 
   /* Colors */
   --text-color: #272822;
-  --header-color: #1f5c99;
+  --header-color: #43418A;
   --background-color: #FFFFFF;
-  --link-color: #1f5c99;
-  --text-bold-color: #1f5c99;
+  --link-color: #43418A;
+  --text-bold-color: #43418A;
   --code-highlight-color: rgba(255,255,0,0.5);
   --inverse-text-color: #FFFFFF;
-  --inverse-background-color: #1f5c99;
+  --inverse-background-color: #43418A;
   --inverse-header-color: #FFFFFF;
-  --inverse-link-color: #1f5c99;
-  --title-slide-background-color: #1f5c99;
+  --inverse-link-color: #43418A;
+  --title-slide-background-color: #43418A;
   --title-slide-text-color: #FFFFFF;
-  --header-background-color: #1f5c99;
+  --header-background-color: #43418A;
   --header-background-text-color: #FFFFFF;
-  --base: #1f5c99;
+  --base: #43418A;
   --white: #FFFFFF;
   --black: #272822;
 }
@@ -100,10 +100,10 @@ h1, h2, h3 {
 }
 .remark-inline-code {
   font-size: var(--code-inline-font-size);
-  color: #1f5c99;
+  color: #43418A;
 }
 .remark-slide-number {
-  color: #1f5c99;
+  color: #43418A;
   opacity: 1;
   font-size: 0.9rem;
 }
@@ -151,10 +151,10 @@ a, a > code {
   float: left;
 }
 .left-column h2, .left-column h3 {
-  color: #1f5c9999;
+  color: #43418A99;
 }
 .left-column h2:last-of-type, .left-column h3:last-child {
-  color: #1f5c99;
+  color: #43418A;
 }
 .right-column {
   width: 75%;
@@ -176,7 +176,7 @@ img, video, iframe {
   max-width: 100%;
 }
 blockquote {
-  border-left: solid 5px #1f5c9980;
+  border-left: solid 5px #43418A80;
   padding-left: 1em;
 }
 .remark-slide table {
@@ -191,7 +191,7 @@ th, td {
   padding: 5px;
 }
 .remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) {
-  background: #D2DEEA;
+  background: #D9D9E7;
 }
 table.dataTable tbody {
   background-color: var(--background-color);
@@ -201,7 +201,7 @@ table.dataTable.display tbody tr.odd {
   background-color: var(--background-color);
 }
 table.dataTable.display tbody tr.even {
-  background-color: #D2DEEA;
+  background-color: #D9D9E7;
 }
 table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   background-color: rgba(255, 255, 255, 0.5);
