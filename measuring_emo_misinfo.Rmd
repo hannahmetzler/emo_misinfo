@@ -248,12 +248,13 @@ knitr::include_graphics("figures/replication_fake.png")
 .pull-right[
 **Emotional state prior to exposure**
 
+* Pre-registered
+
 * Time of reference <br> "past days" vs. "right now"
 
-* <div style="color:grey">Other differences: Topic, education, political orientation
-</div>
+* Other differences: Topic, education, political orientation
 
-* Neglected:
+* Neglected factors:
   * the stimulus
   * the person's interpretation
 ]
@@ -263,7 +264,7 @@ layout:true
 
 ---
 
-## Immediate emotional response
+## Immediate emotional response to news items
 
 .broad-left[
 ```{r, echo=FALSE}
@@ -271,7 +272,10 @@ knitr::include_graphics("figures/emo_diff_plot_color.svg")
 ```
 ]
 .narrow-right[
-* Most people reported feeling an emotion
+* Exploratory
+
+* Most people reported an emotional response
+
 * More anger after false than real news
   * b  = 0.44*** (LMEM)
   
