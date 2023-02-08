@@ -213,7 +213,7 @@ layout:true
 
 * Online survey, Austria, Dec 2021, N=422, left-leaning & educated sample
 
-* False & real COVID-19 news items: accuracy rating task
+* False & real COVID-19 news items (n=24): accuracy rating task
 
 <center>
 ```{r, echo=FALSE, out.height=270}
