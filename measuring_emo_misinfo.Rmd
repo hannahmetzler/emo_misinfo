@@ -290,9 +290,9 @@ knitr::include_graphics("figures/emo_diff_plot_color.svg")
 knitr::include_graphics("figures/curvi-linear.svg")
 ```
 
-* Higher anger in people with low & **high** discernment
-* Our sample: mostly high discernment
-* Most angry responses because people **recognize** false news? 
+* Higher anger in people **good & bad** at recognizing false news
+* In our sample: mostly in people with good performance
+* Angry responses because they **recognize** false news? 
 
 <div style="color:grey"><small><left>
 Robust polynomial curves for news discernment & emotional responses. <br> Black dotted line = linear model. </small>
