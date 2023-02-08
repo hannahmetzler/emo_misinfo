@@ -145,10 +145,9 @@ layout: true
 * Function of emotions depends on context:
 
   * Prior beliefs
-  * Source of emotion: state vs. response
-  
-* Social motives: belonging & reputation
+  * Social motives: belonging & reputation
 
+* Source of emotion: state vs. response
 ]
 .narrow-right[
 ```{r, echo=FALSE, out.height=300}
@@ -157,44 +156,51 @@ knitr::include_graphics("figures/N8.PNG")
 ]
 
 ???
-- Stable: if people would fall for someone pretending there is a threat, others would take advantage of that
-- If others took advantage of this all the time, people would stop attending to the emotional signals
-- skeptical
+- Stable: if people could be easily deceived, others would take advantage of that. 
+- Pretend to be angry to get something from us. 
+- If this happened often, people would realize they only pretend, they don't follow up on their threats
+- so people would stop attending to the emotional signals - the signal would die out
+- skeptical: hard to convince people of things they don't already believe (everyday life experience)
+- Dependent on specific context
+- Scientifically minded person: angry about lies being told that vaccination during pregnancy kills babies
+- Vaccine skeptics angry that babies die
+- Emotions as signals for social opportunities & threats
+- In this view, what causes an emotion is crucial to predict it's influence
 
----
-layout: true
-<div class="my-footer"><span>
-<a href="https://journals.sagepub.com/doi/pdf/10.1177/0963721417718261">  Douglas et al. (2017); </a>
-<a href="https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday"> Mercier (2020) </a>
-</span></div>
+<!-- --- -->
+<!-- layout: true -->
+<!-- <div class="my-footer"><span> -->
+<!-- <a href="https://journals.sagepub.com/doi/pdf/10.1177/0963721417718261">  Douglas et al. (2017); </a> -->
+<!-- <a href="https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday"> Mercier (2020) </a> -->
+<!-- </span></div> -->
 
----
+<!-- --- -->
 
-# Example: Misinformation in crisis times
+<!-- # Example: Misinformation in crisis times -->
 
-.pull-left[
-**Uncertainty = susceptibility**
+<!-- .pull-left[ -->
+<!-- **1) Uncertainty = susceptibility** -->
 
-* Anxiety & loss of control
+<!-- * Anxiety & loss of control -->
 
-* Sense making to reduce uncertainty
+<!-- * Sense making to reduce uncertainty -->
 
-* Simple cause-effect & evil-good stories
-]
+<!-- * Simple cause-effect & evil-good stories -->
+<!-- ] -->
 
-.pull-right[
-**Adaptive emotions & behavior**
-* Openness to potentially relevant information is adaptive
+<!-- .pull-right[ -->
+<!-- **2) Adaptive emotions & behavior** -->
+<!-- * Openness to potentially relevant information is adaptive -->
 
-* Not all beliefs influence behavior
-  
-* Gaining status by sharing socially relevant (=surprising) news
-    * Extremist: cutting bridges to prove loyalty
-]
+<!-- * Not all beliefs influence behavior -->
 
-???
-Cutting bridges by making extreme statements and proving loyalty to a fringe group - statements need to be crazy
-Difference between reflective and intuitive beliefs: beliefs that are relevant for our actions
+<!-- * Gaining status by sharing socially relevant (=surprising) news -->
+<!--     * Extremist: cutting bridges to prove loyalty -->
+<!-- ] -->
+
+<!-- ??? -->
+<!-- Cutting bridges by making extreme statements and proving loyalty to a fringe group - statements need to be crazy -->
+<!-- Difference between reflective and intuitive beliefs: beliefs that are relevant for our actions -->
 
 ---
 layout:true
