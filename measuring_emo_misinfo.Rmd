@@ -213,7 +213,7 @@ layout:true
 
 * Online survey, Austria, Dec 2021, N=422, left-leaning & educated sample
 
-* False & real COVID-19 news items (n=24): accuracy rating task
+* Actual false & real COVID-19 news items (n=24): accuracy rating task
 
 <center>
 ```{r, echo=FALSE, out.height=270}
@@ -245,7 +245,7 @@ Replication
 knitr::include_graphics("figures/replication_fake.png")
 ```
 ]]
-.pull-right[
+.pull-right[.center-right[
 **Emotional state prior to exposure**
 
 * Pre-registered
@@ -255,9 +255,9 @@ knitr::include_graphics("figures/replication_fake.png")
 * Other differences: Topic, education, political orientation
 
 * Neglected factors:
-  * the stimulus
+  * the source
   * the person's interpretation
-]
+]]
 
 ---
 layout:true
