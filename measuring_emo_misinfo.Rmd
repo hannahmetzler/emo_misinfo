@@ -1,7 +1,7 @@
 ---
 title: "Measuring emotions in <br> misinformation studies"
 author: "Hannah Metzler\n\n Complexity Science Hub & Medical University of Vienna"
-date: "08-09.02.2023 @ Disinformation Expert Workshop Zurich \n\n Slides: www.hannahmetzler.eu/measuring_emo_misinfo"
+date: "09-10.02.2023 @ Disinformation Expert Workshop Zurich \n\n Slides: www.hannahmetzler.eu/measuring_emo_misinfo"
 output:
   xaringan::moon_reader:
     #Use offline version of rmarks, dowload most recent: xaringan::summon_remark()
@@ -52,7 +52,7 @@ background-size: cover
 ### Distinguishing emotional state <br> from response & misinformation <br> recognition from susceptibility
 ### Hannah Metzler
 #### Complexity Science Hub Vienna &  <br> Medical University of Vienna 
-#### Disinformation Expert Workshop, Zürich, 8-9 Feb 2023 <br> Slides: www.hannahmetzler.eu/measuring_emo_misinfo
+#### Disinformation Expert Workshop, Zürich, 9-10 Feb 2023 <br> Slides: www.hannahmetzler.eu/measuring_emo_misinfo
 
 ---
 <!-- layout:true -->
