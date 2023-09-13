@@ -279,7 +279,7 @@ knitr::include_graphics("figures/emo_diff_plot_color.svg")
 * More anger after false than real news
   * b  = 0.44*** (LMEM)
   
-* Happy/excited because more positive real news
+* Happy/excited after real news
   * b = -0.46** (LMEM)
 ]
 ---
