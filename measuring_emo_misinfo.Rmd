@@ -1,7 +1,7 @@
 ---
-title: "Measuring emotions in <br> misinformation studies"
+title: "Measuting emotions in <br> misinformation studies"
 author: "Hannah Metzler\n\n Complexity Science Hub & Medical University of Vienna"
-date: "09-10.02.2023 @ Disinformation Expert Workshop Zurich \n\n Slides: www.hannahmetzler.eu/measuring_emo_misinfo"
+date: "15.09.2023 at Järfälla \n\n Slides: www.hannahmetzler.eu/measuring_emo_misinfo"
 output:
   xaringan::moon_reader:
     #Use offline version of rmarks, dowload most recent: xaringan::summon_remark()
@@ -48,11 +48,11 @@ background-image: url("https://cdn.pixabay.com/photo/2017/09/10/18/25/question-2
 background-size: cover
 
 
-# Measuring emotions in <br> misinformation studies: 
+# Emotions in <br> misinformation studies: 
 ### Distinguishing emotional state <br> from response & misinformation <br> recognition from susceptibility
 ### Hannah Metzler
 #### Complexity Science Hub Vienna &  <br> Medical University of Vienna 
-#### Disinformation Expert Workshop, Zürich, 9-10 Feb 2023 <br> Slides: www.hannahmetzler.eu/measuring_emo_misinfo
+#### Workshop Järfälla, 15 Sep 2023 <br> Slides: www.hannahmetzler.eu/measuring_emo_misinfo
 
 ---
 <!-- layout:true -->
@@ -167,40 +167,40 @@ knitr::include_graphics("figures/N8.PNG")
 - Emotions as signals for social opportunities & threats
 - In this view, what causes an emotion is crucial to predict it's influence
 
-<!-- --- -->
-<!-- layout: true -->
-<!-- <div class="my-footer"><span> -->
-<!-- <a href="https://journals.sagepub.com/doi/pdf/10.1177/0963721417718261">  Douglas et al. (2017); </a> -->
-<!-- <a href="https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday"> Mercier (2020) </a> -->
-<!-- </span></div> -->
+---
+layout: true
+<div class="my-footer"><span>
+<a href="https://journals.sagepub.com/doi/pdf/10.1177/0963721417718261">  Douglas et al. (2017); </a>
+<a href="https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday"> Mercier (2020) </a>
+</span></div>
 
-<!-- --- -->
+---
 
-<!-- # Example: Misinformation in crisis times -->
+# Example: Misinformation in crisis times
 
-<!-- .pull-left[ -->
-<!-- **1) Uncertainty = susceptibility** -->
+.pull-left[
+**1) Uncertainty = susceptibility**
 
-<!-- * Anxiety & loss of control -->
+* Anxiety & loss of control
 
-<!-- * Sense making to reduce uncertainty -->
+* Sense making to reduce uncertainty
 
-<!-- * Simple cause-effect & evil-good stories -->
-<!-- ] -->
+* Simple cause-effect & evil-good stories
+]
 
-<!-- .pull-right[ -->
-<!-- **2) Adaptive emotions & behavior** -->
-<!-- * Openness to potentially relevant information is adaptive -->
+.pull-right[
+**2) Adaptive emotions & behavior**
+* Openness to potentially relevant information is adaptive
 
-<!-- * Not all beliefs influence behavior -->
+* Not all beliefs influence behavior
 
-<!-- * Gaining status by sharing socially relevant (=surprising) news -->
-<!--     * Extremist: cutting bridges to prove loyalty -->
-<!-- ] -->
+* Gaining status by sharing socially relevant (=surprising) news
+    * Extremist: cutting bridges to prove loyalty
+]
 
-<!-- ??? -->
-<!-- Cutting bridges by making extreme statements and proving loyalty to a fringe group - statements need to be crazy -->
-<!-- Difference between reflective and intuitive beliefs: beliefs that are relevant for our actions -->
+???
+Cutting bridges by making extreme statements and proving loyalty to a fringe group - statements need to be crazy
+Difference between reflective and intuitive beliefs: beliefs that are relevant for our actions
 
 ---
 layout:true
