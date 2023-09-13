@@ -343,14 +343,21 @@ knitr::include_graphics("figures/WordShiftGraph.png")
 # Thank you! Questions or comments?
 
 .pull-left[.center-left[
- ... and to the project team!
+Thanks to the project team!
  
 ```{r, echo=FALSE, out.width=600, fig.align='center'}
 knitr::include_graphics("figures/collaborators.svg")
 ```
+<br> <br>
+... and our funder! <br> <br>
+```{r, echo=FALSE, out.width=320, fig.align='right'}
+knitr::include_graphics("figures/WWTF_Text_RGB.svg")
+```
 ]]
 .pull-right[
 * Project: [hannahmetzler.eu/emomis](hannahmetzler.eu/emomis)
+
+* Pre-print: [psyarxiv.com/udqms/](https://psyarxiv.com/udqms/)
 
 * Staying in touch:
   * metzler@csh.ac.at
@@ -358,16 +365,17 @@ knitr::include_graphics("figures/collaborators.svg")
   * [@hannametzler1](https://twitter.com/hannahmetzler1)
 ]
 
-... and our funders! <br>
-```{r, echo=FALSE, out.width=300}
-knitr::include_graphics("figures/wwtf.svg")
-```
 ```{r, echo=FALSE, out.width=210}
 knitr::include_graphics("figures/csh.png")
 ```
-```{r, echo=FALSE, out.width=260}
+```{r, echo=FALSE, out.height='90'}
 knitr::include_graphics("figures/uni_wien_logo_blue.jpg")
 ```
+```{r, echo=FALSE,  out.height='90'}
+knitr::include_graphics("figures/Meduni-wien.svg")
+```
+
+
 
 ---
 layout:true
@@ -377,16 +385,18 @@ background-size: cover
 
 ---
 
-# Additional methods <br> & results
+# Additional information
 
 ---
 layout:true
 
 ---
 
-# Pre-registration link
+# Links
 
-[OSF preregistration](https://osf.io/2r6bj/?view_only=884d6b32d5704095a53ca63ac9418efd)
+* [OSF repository](https://osf.io/tgzxr/): materials, data, code
+* [Pre-print](https://psyarxiv.com/udqms/)
+* [OSF preregistration](https://osf.io/2r6bj)
 
 ---
 
